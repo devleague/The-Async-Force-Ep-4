@@ -18,7 +18,6 @@ An **async** exercise using **server side** XHR accessing the swapi API at https
 
 *Remember this is a server side exercise running entirely in the node environment*
 
-
 ##Hints
 1. request-promise library repo https://github.com/request/request-promise
 2. Information on promises http://www.mattgreer.org/articles/promises-in-wicked-detail/
