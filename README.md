@@ -12,7 +12,7 @@ Async Exercise using Server side XHR accessing the swapi
     - https://swapi.co/api/starships/5/
     - https://swapi.co/api/starships/9/
 1. edit the `app.js`.
-1. fetch the json data from swapi to save starships into `data/[starship_]n.json`
+1. fetch the json data from swapi to save starships into `data/[starship_]n.json` using the xmlhttprequest node module: [https://www.npmjs.com/package/xmlhttprequest]
     - use the fs module (async only, no sync functions)
     - https://swapi.co/api/starships/2/ -> `data/starship_2.json`
     - https://swapi.co/api/starships/3/ -> `data/starship_3.json`
